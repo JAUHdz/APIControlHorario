@@ -1,0 +1,11 @@
+###
+GET http://localhost:3000/api/tipousuarios/consulta HTTP/1.1
+
+###
+GET http://localhost:3000/api/estadousuarios/consulta HTTP/1.1
+
+###
+GET http://localhost:3000/api/usuusuarios/consulta HTTP/1.1
+
+###
+GET http://localhost:3000/api/controlhorario/consulta HTTP/1.1
